@@ -1,6 +1,6 @@
 # Personal Portfolio ⚡️ 
 
-> https://ygoesh7920.github.io
+> https://yogesh7920.github.io
 
 ![GitHub stars](https://img.shields.io/github/stars/yogesh7920/yogesh7920.github.io) 
 ![GitHub forks](https://img.shields.io/github/forks/yogesh7920/yogesh7920.github.io)
